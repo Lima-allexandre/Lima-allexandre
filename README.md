@@ -1,6 +1,10 @@
 [![MasterHead](https://www.valuehost.com.br/blog/wp-content/uploads/2016/10/linguagens-de-programacao.jpeg.webp)](https://github.com/Lima-allexandre/Lima-allexandre/)
 # 👋 Olá, eu sou o Alexandre Lima! 
-**🚀 Desenvolvedor Front-End Júnior | Apaixonado por código, novas tecnologias e grandes desafios**
+  - **🚀 Desenvolvedor Front-End Júnior** 
+     <br>
+  - **💡 Apaixonado por tecnologia e programação, estou em transição de carreira para o mundo do desenvolvimento web.**
+     <br>
+  - **🌐 Founder @CodeVerse – Construindo uma comunidade tech para troca de conhecimento e crescimento conjunto.**
 
 ## 🛠️ **Tecnologias e Ferramentas** 
 <br>
