@@ -35,7 +35,7 @@
 - 📈 Publicar 5+ projetos completos  
 - 💡 Aprender fundamentos de **cybersecurity**
 
-- ---
+
 
 ## ✨ **Curiosidades**  
 - 🔧 Adoro transformar designs complexos em código funcional  
