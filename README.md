@@ -7,15 +7,67 @@
   - **🌐 Founder @CodeVerse – Construindo uma comunidade tech para troca de conhecimento e crescimento conjunto.**
 
 ## 🛠️ **Tecnologias e Ferramentas** 
-<br>
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
- 
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
- 
-## 📚 **Atualmente Aprendendo**  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="java-logo" />
+ <img
+   align="left"
+   alt="HTML"
+   title="HTML"
+   width="30px"
+   style="padding-right=10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+   <img
+   align="left"
+   alt="CSS"
+   title="CSS"
+   width="30px"
+   style="padding-right=10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+    <img
+   align="left"
+   alt="JavaScript"
+   title="JavaScript"
+   width="30px"
+   style="padding-right=10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+      <img
+   align="left"
+   alt="GitHub"
+   title="GitHub"
+   width="30px"
+   style="padding-right=10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+      <img
+   align="left"
+   alt="Figma"
+   title="Figma"
+   width="30px"
+   style="padding-right=10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+   <br>
+          
+          
+          
+   
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" />
+
+## 📚 **Atualmente Aprendendo**  
+ <img
+   align="left"
+   alt="NodeJs"
+   title="NodeJs"
+   width="30px"
+   style="padding-right=10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+          
+   <img
+   align="left"
+   alt="React"
+   title="React"
+   width="30px"
+   style="padding-right=10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+          
+   <br>
+
 
 ## 💬 **Vamos Conversar!**  
 <p align="left">
@@ -27,9 +79,8 @@
 ## 📊 **Estatísticas do GitHub**  
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lima-allexandre)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 [![Alexandre stats](https://github-readme-stats.vercel.app/api?username=Lima-allexandre)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lima-allexandre)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
