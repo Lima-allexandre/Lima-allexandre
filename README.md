@@ -1,4 +1,5 @@
-[![MasterHead](https://www.valuehost.com.br/blog/wp-content/uploads/2016/10/linguagens-de-programacao.jpeg.webp)](https://github.com/Lima-allexandre/Lima-allexandre/)
+<img width="3000" height="1000" alt="Gemini_Generated_Image_9wlsjw9wlsjw9wls" src="https://github.com/user-attachments/assets/d4689592-2d89-49ba-8140-cdc23deaed14"/>
+
 # 👋 Olá, eu sou o Alexandre Lima! 
  💻 Desenvolvedor Front-End em formação  
 📍 Manaus - AM | Brasil  
