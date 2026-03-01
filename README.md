@@ -62,12 +62,9 @@ Essas experiências fortaleceram minha disciplina, organização, liderança e t
    style="padding-right=10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
    <br>
-          
-          
-          
+           
+      ---    
    
-
-
 ## 📚 **Atualmente Aprendendo**  
  <img
    align="left"
@@ -87,12 +84,15 @@ Essas experiências fortaleceram minha disciplina, organização, liderança e t
           
    <br>
 
+---
 
 ## 💬 **Vamos Conversar!**  
 <p align="left">
 <a href="https://www.linkedin.com/in/alexandre-lima-costa/"(https://www.linkedin.com/in/alexandre-lima-costa/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/limaa.allexandre/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
+
+---
 
 ## 🚀 Projetos em Destaque
 
