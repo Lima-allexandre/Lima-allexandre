@@ -4,12 +4,14 @@
 📍 Manaus - AM | Brasil  
 🚀 Em transição de carreira para a área de tecnologia  
 
-Sou apaixonado por tecnologia, desenvolvimento web e soluções digitais. 
-Venho construindo projetos práticos com foco em HTML, CSS e JavaScript, 
-buscando sempre evoluir tecnicamente e profissionalmente.
+- Sou apaixonado por tecnologia, desenvolvimento web e soluções digitais. 
+- Venho construindo projetos práticos com foco em HTML, CSS e JavaScript, 
+ buscando sempre evoluir tecnicamente e profissionalmente.
 
 Tenho experiência anterior como:
+<br>
 • Líder de Estoque na PMZ  
+<br>
 • Montador na Honda  
 
 Essas experiências fortaleceram minha disciplina, organização, liderança e trabalho em equipe — habilidades que hoje aplico no desenvolvimento de software.
@@ -62,8 +64,8 @@ Essas experiências fortaleceram minha disciplina, organização, liderança e t
    style="padding-right=10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
    <br>
-           
-      ---    
+     
+     ---    
    
 ## 📚 **Atualmente Aprendendo**  
  <img
