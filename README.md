@@ -1,20 +1,24 @@
 <img width="3000" height="1000" alt="Gemini_Generated_Image_9wlsjw9wlsjw9wls" src="https://github.com/user-attachments/assets/d4689592-2d89-49ba-8140-cdc23deaed14"/>
 
-# 👋 Olá, eu sou o Alexandre Lima! 
- 💻 Desenvolvedor Front-End em formação  
-📍 Manaus - AM | Brasil  
-🚀 Em transição de carreira para a área de tecnologia  
-
-- Sou apaixonado por tecnologia, desenvolvimento web e soluções digitais. 
-- Venho construindo projetos práticos com foco em HTML, CSS e JavaScript, 
- buscando sempre evoluir tecnicamente e profissionalmente.
-
-Tenho experiência anterior como:
+# 👋 Olá, eu sou o Alexandre Lima!
+💻 Desenvolvedor Front-End em formação.
 <br>
-• Líder de Estoque na PMZ  
+📍 Manaus - AM | Brasil.
 <br>
-• Montador na Honda  
+🚀 Em transição de carreira para a área de tecnologia.
+<br>
+😍 Sou apaixonado por tecnologia, desenvolvimento web e soluções digitais.
+<br>
+🏗️ Venho construindo projetos práticos com foco em HTML, CSS e JavaScript, buscando sempre evoluir tecnicamente e profissionalmente.
 
+# Tenho experiência anterior como:
+<br>
+📦 Líder de Estoque na PMZ 
+<br>
+<br>
+⚙️ Montador na Honda
+<br>
+<br>
 Essas experiências fortaleceram minha disciplina, organização, liderança e trabalho em equipe — habilidades que hoje aplico no desenvolvimento de software.
 
 ---
